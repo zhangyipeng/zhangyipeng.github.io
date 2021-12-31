@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Zhang Yi Peng
+description: A simple blog
 url: https://vszhub.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -33,10 +33,10 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: YiPeng Zhang
   links:
     - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/zhangyipeng
 google_site_verification: xxxxx
 lang: en
 
