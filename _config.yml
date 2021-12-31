@@ -1,11 +1,11 @@
 # Setup
 title: Zhang Yi Peng
 description: A simple blog
-url: https://vszhub.github.io
+url: https://zhangyipeng.github.io
 avatar: /mantis.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /plane.jpg
 
 # Gems
 plugins:
