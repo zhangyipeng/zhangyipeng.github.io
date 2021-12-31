@@ -2,10 +2,10 @@
 title: Zhang Yi Peng
 description: A simple blog
 url: https://zhangyipeng.github.io
-avatar: /mantis.jpg
+avatar: /mantis.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /plane.jpg
+cover_image: /plane.jpeg
 
 # Gems
 plugins:
