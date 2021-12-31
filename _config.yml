@@ -29,13 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: zypdan
   card: summary
 logo: logo.png
 social:
   name: YiPeng Zhang
   links:
-    - https://twitter.com/vszhub
+    - https://twitter.com/zypdan
     - https://github.com/zhangyipeng
 google_site_verification: xxxxx
 lang: en
